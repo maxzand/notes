@@ -65,13 +65,30 @@ You can return the answer in any order.
 
 ```cpp
 # Solution
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        std::unordered_map<int,int> map; //Hashtable
+        for(int i=0;i<nums.size(); i++) {
+            int desired = target - nums[i]; //What value would we need for the current value to work?
+            
+            if(map.find(desired) != map.end()){
+	            // Have we seen this value we need?
+                return {map[desired],i};
+            }
+	        // If not save the current index with it's value as key for future lookup
+            map[nums[i]] = i;
+        }
 
+        return {}; // No solution found.
+    }
+};
 ```
 
 ## Complexity Analysis
 
-- Time complexity: 
-- Space complexity: 
+- Time complexity: O(N)
+- Space complexity: O(N)
 
 ## Reflections
-This is one of the most intuitive problems to solve with a hashmap. Initially an O(N^2) approach can be taken but easily can be changed to be O(N) with a hash table
+This is one of the most intuitive problems to solve with a hashmap. Initially an O(N^2) approach can be taken using loops but easily can be changed to be O(N) with a hash table
