@@ -4,4 +4,4 @@
 
 Max Zand
 
-I am now syncing this to my github
+I am now syncing this to my GitHub.
