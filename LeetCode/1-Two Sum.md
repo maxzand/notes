@@ -1,7 +1,7 @@
 ---
 created: 2024-12-17
 modified: 
-completed: false
+completed: true
 leetcode-index: 1
 link: https://leetcode.com/problems/two-sum
 difficulty: Easy
