@@ -1,18 +1,18 @@
 ---
 created: 2024-12-20
 modified: 
-completed: false
-leetcode-index: 49 
+completed: true
+leetcode-index: 49
 link: https://leetcode.com/problems/group-anagrams
-difficulty: Medium 
+difficulty: Medium
 tags:
-   - leetcode/array
-   - leetcode/hash-table
-   - leetcode/string
-   - leetcode/sorting 
-   - programming/practice
-   - leetcode/problem
-   - your/tags
+  - leetcode/array
+  - leetcode/hash-table
+  - leetcode/string
+  - leetcode/sorting
+  - programming/practice
+  - leetcode/problem
+  - your/tags
 ---
 # Group Anagrams
 
