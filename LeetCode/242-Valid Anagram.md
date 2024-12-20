@@ -1,17 +1,17 @@
 ---
 created: 2024-12-19
 modified: 
-completed: false
-leetcode-index: 242 
+completed: true
+leetcode-index: 242
 link: https://leetcode.com/problems/valid-anagram
-difficulty: Easy 
+difficulty: Easy
 tags:
-   - leetcode/hash-table
-   - leetcode/string
-   - leetcode/sorting 
-   - programming/practice
-   - leetcode/problem
-   - your/tags
+  - leetcode/hash-table
+  - leetcode/string
+  - leetcode/sorting
+  - programming/practice
+  - leetcode/problem
+  - your/tags
 ---
 # Valid Anagram
 
