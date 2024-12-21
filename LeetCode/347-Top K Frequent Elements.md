@@ -94,5 +94,5 @@ public:
 - Space complexity: $O(n)$
 
 ## Reflections
-- Be mindful of of the constraints of everything (ie the constraints to the amount of possible frequencies)
+- Be mindful of of the constraints of everything (i.e. the constraints to the amount of possible frequencies)
 - Group by buckets to avoid $O(n*log(n))$ sorting algorithms if possible
