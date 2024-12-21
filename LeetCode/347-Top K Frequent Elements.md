@@ -1,22 +1,22 @@
 ---
 created: 2024-12-20
 modified: 
-completed: false
-leetcode-index: 347 
+completed: true
+leetcode-index: 347
 link: https://leetcode.com/problems/top-k-frequent-elements
-difficulty: Medium 
+difficulty: Medium
 tags:
-   - leetcode/array
-   - leetcode/hash-table
-   - leetcode/divide-and-conquer
-   - leetcode/sorting
-   - leetcode/heap-priority-queue
-   - leetcode/bucket-sort
-   - leetcode/counting
-   - leetcode/quickselect 
-   - programming/practice
-   - leetcode/problem
-   - your/tags
+  - leetcode/array
+  - leetcode/hash-table
+  - leetcode/divide-and-conquer
+  - leetcode/sorting
+  - leetcode/heap-priority-queue
+  - leetcode/bucket-sort
+  - leetcode/counting
+  - leetcode/quickselect
+  - programming/practice
+  - leetcode/problem
+  - your/tags
 ---
 # Top K Frequent Elements
 
