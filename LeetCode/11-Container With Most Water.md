@@ -73,10 +73,7 @@ public:
 
             if(height[left] > height[right]){
                 right--;
-            }
-            if(height[right] > height[left]){
-                left++;
-            } else{
+            }else{
                 left++;
             }
         }
