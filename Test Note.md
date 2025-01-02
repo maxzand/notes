@@ -13,3 +13,5 @@ I am now syncing this to my GitHub.
 
 ```
 
+$L*O(n)$
+Using LaTeX
