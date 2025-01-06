@@ -1,16 +1,16 @@
 ---
 created: 2024-12-20
 modified: 
-completed: false
-leetcode-index: 238 
+completed: true
+leetcode-index: 238
 link: https://leetcode.com/problems/product-of-array-except-self
-difficulty: Medium 
+difficulty: Medium
 tags:
-   - leetcode/array
-   - leetcode/prefix-sum 
-   - programming/practice
-   - leetcode/problem
-   - your/tags
+  - leetcode/array
+  - leetcode/prefix-sum
+  - programming/practice
+  - leetcode/problem
+  - your/tags
 ---
 # Product of Array Except Self
 
